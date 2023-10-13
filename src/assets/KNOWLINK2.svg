@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="642" height="119" viewBox="0 0 642 119">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        font-family: "Dimitri Swank";
+        fill: white;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <text id="KNOWLINK" class="cls-1" transform="translate(3.964 99.675) scale(0.495 0.447)">KNOW<tspan class="cls-2">LINK</tspan></text>
+</svg>
